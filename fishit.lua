@@ -74,4 +74,4 @@ check.MouseButton1Click:Connect(function()
 end)
 
 -- URL script utama (raw)
-_G.scriptURL = ""https://raw.githubusercontent.com/DeadMark666X/market/main/fishit.lua"
+_G.scriptURL = "https://raw.githubusercontent.com/DeadMark666X/market/main/fishit.lua"
