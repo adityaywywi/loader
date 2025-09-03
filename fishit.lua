@@ -1,4 +1,4 @@
-local correctKey = "SYPHERXKEY_GHIIRRM6PXXF"
+local correctKey = "716879cbb0452935fa31dd4aa"
 
 local player = game.Players.LocalPlayer
 local gui = Instance.new("ScreenGui", player:WaitForChild("PlayerGui"))
